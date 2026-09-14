@@ -1,4 +1,16 @@
-title: 翠翔羽翥
+title: CXYZ的博客
+description: 从 Obsidian 直接发布的博客
 url: https://cuixyz.github.io
-remote_theme: pages-themes/cayman@v0.2.0   # 可换成任何白名单主题
-permalink: /:title/        # 让 URL 不带日期，更干净
+
+remote_theme: pages-themes/minimal@v0.2.0
+
+permalink: /:title/
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+logo: /assets/logo.png
+show_downloads: false
