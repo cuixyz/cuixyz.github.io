@@ -1,0 +1,4 @@
+title: 翠翔羽翥's Blog
+url: https://cuixyz.github.io
+remote_theme: pages-themes/cayman@v0.2.0   # 可换成任何白名单主题
+permalink: /:title/        # 让 URL 不带日期，更干净
