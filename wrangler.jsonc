@@ -1,7 +1,7 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "blog-jekyll",
-  "compatibility_date": "2026-09-11",
+  "name": "blogit",
+  "compatibility_date": "2026-09-15",
   "observability": {
     "enabled": true
   },
