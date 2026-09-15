@@ -2,15 +2,18 @@ title: CX的时间戳
 description: 从ob发布的博客
 url: https://chron.cuixyz.cc
 
-remote_theme: dieghernan/chulapa
+remote_theme: mmistakes/minimal-mistakes
 
 permalink: /:title/
 
 plugins:
   - jekyll-remote-theme
+  - jekyll-include-cache
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-gist
 
 logo: /assets/logo.png
 show_downloads: false
