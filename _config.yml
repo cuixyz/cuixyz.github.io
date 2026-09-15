@@ -1,7 +1,8 @@
-encoding: utf-8
 title: CX的时间戳
 description: 从ob发布的博客
 url: https://chron.cuixyz.cc
+include:
+  - _headers
 
 remote_theme: pages-themes/minimal@v0.2.0
 
