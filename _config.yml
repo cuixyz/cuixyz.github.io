@@ -2,7 +2,7 @@ title: CX的时间戳
 description: 从ob发布的博客
 url: https://chron.cuixyz.cc
 
-remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: arthrfrts/minduim@latest
 
 permalink: /:title/
 
