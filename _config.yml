@@ -5,7 +5,7 @@ url: https://chron.cuixyz.cc
 
 remote_theme: pages-themes/minimal@v0.2.0
 
-permalink: /:title/
+permalink: /:year/:title/
 
 plugins:
   - jekyll-remote-theme
